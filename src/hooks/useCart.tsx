@@ -49,9 +49,9 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
       }
 
       if (existingProduct) {
-        existingProduct.amount + 1;
+        existingProduct.amount = amount;
       } else {
-        const product = await api.get(`/product/${productId}`)
+        const product = await api.get(`/products/${productId}`)
           .then(response => response.data);
         
         const newProduct = {
