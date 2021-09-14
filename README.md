@@ -1,9 +1,9 @@
 <h1 align="center">
-    💲 <a href="#"> RocketShoes </a>
+    👟 <a href="#"> RocketShoes </a>
 </h1>
 
 <h1 align="center">
-    <img alt="To.Do Preview" src="https://media.discordapp.net/attachments/880027077884137492/887272475929481236/RocketShoes.gif" />
+    <img alt="RocketShoes Preview" src="https://media.discordapp.net/attachments/880027077884137492/887272475929481236/RocketShoes.gif" />
 </h1>
 
 
