@@ -90,13 +90,12 @@ The following tools were used in the construction of the project:
  <br />
 
 <a href="https://www.linkedin.com/in/nilton-izaguirres">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://media.discordapp.net/attachments/880027077884137492/938595053176225842/Linkedin.png" /></code>
 </a>
 
 <a href="mailto:niltonizaguirres2003@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="28" src="https://cdn.discordapp.com/attachments/880027077884137492/938595052756803594/gmail.png" /></code>
 </a>
-
 
 ---
 
